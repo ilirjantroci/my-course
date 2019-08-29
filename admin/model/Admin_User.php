@@ -12,7 +12,7 @@ class Admin_User
 	public $fjalekalimi;
 
 	public $error;
-	private $emri_tab="admin_user";//e shikon kete var e cila mban emrin e tabeles kjo eshte me e sigurte se nje komand e drejteperdrejte
+	private $emri_tab="admin_user";
 
 	function __construct()
 	{
